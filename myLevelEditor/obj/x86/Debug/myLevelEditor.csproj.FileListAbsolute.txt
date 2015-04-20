@@ -1,0 +1,10 @@
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\bin\Debug\myLevelEditor.exe
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\bin\Debug\myLevelEditor.pdb
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.Form1.resources
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.Properties.Resources.resources
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.csproj.GenerateResource.Cache
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.exe
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.pdb
+c:\users\kevin\documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\bin\Debug\Maps\TextFile1.map
+C:\Users\kevin\Documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\Visual Studio 2010\Projects\myLevelEditor\myLevelEditor\obj\x86\Debug\myLevelEditor.NewTileMap.resources
